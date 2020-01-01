@@ -1,0 +1,19 @@
+{
+  "name": "my_express",
+  "version": "1.0.0",
+  "description": "Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Course",
+    "node",
+    "express"
+  ],
+  "author": "Rodrigo JR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
